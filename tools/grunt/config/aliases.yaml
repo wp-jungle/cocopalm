@@ -1,0 +1,18 @@
+# Grunt aliases
+---
+# Build everything for every plugin
+'build':
+  - 'exec'
+  - 'checktextdomain'
+  - 'makepot'
+  - 'uglify'
+  - 'less'
+  - 'autoprefixer'
+  - 'hash-manifest'
+# Release a new bump (version, changelog, documentations, zip file, ...)
+'release':
+  - 'prompt:plugin'
+  - 'prompt:release'
+# Default
+'default':
+  - 'build'

@@ -1,0 +1,11 @@
+composer.lock
+/dev/assets/css/*.css.map
+/dev/assets/js/*.js.map
+/dev/vendor/*
+!/dev/vendor/.gitkeep
+!/releases/latest
+/releases/latest/*
+!/releases/latest/.gitkeep
+!/releases/tmp
+/releases/tmp/*
+!/releases/tmp/.gitkeep

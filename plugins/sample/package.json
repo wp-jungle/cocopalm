@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "name": "sample",
+  "author": {
+    "name": "Firstname Lastname",
+    "email": "contact@company.com",
+    "homepage": "http://company.com/"
+  },
+  "homepage": "http://wordpress.org/plugins/sample",
+  "repository": "",
+  "bugs": {
+    "url": ""
+  },
+  "private": true,
+  "engines": {
+    "node": ">= 4.1.1"
+  }
+}

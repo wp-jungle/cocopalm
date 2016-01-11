@@ -1,0 +1,20 @@
+{
+  "name": "sample",
+  "homepage": "http://company.com",
+  "authors": [
+    {
+      "name": "Firstname Lastname",
+      "email": "contact@company.com",
+      "homepage": "http://company.com/"
+    }
+  ],
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "dependencies": {
+    "isotope": "~2.2.0"
+  }
+}

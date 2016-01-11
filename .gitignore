@@ -1,0 +1,9 @@
+/composer.lock
+/node_modules
+/.idea
+/plugins/*
+!/plugins/sample
+/plugins/*/releases/*
+!/plugins/*/releases/.gitkeep
+/tools/grunt/override/*
+!/tools/grunt/override/.gitkeep

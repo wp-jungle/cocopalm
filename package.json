@@ -1,0 +1,57 @@
+{
+  "name": "Cocopalm",
+  "version": "1.0.1",
+  "authors": [
+    {
+      "name": "MarvinLabs",
+      "email": "contact@marvinlabs.com",
+      "homepage": "http://marvinlabs.com/"
+    },
+    {
+      "name": "Vincent Mimoun-Prat",
+      "email": "contact@vincentprat.info",
+      "homepage": "http://vincentprat.info/"
+    },
+    {
+      "name": "Thomas Lartaud",
+      "email": "contact@thomaslartaud.com",
+      "homepage": "http://thomaslartaud.com/"
+    }
+  ],
+  "homepage": "http://marvinlabs.com",
+  "repository": "",
+  "bugs": {
+    "url": ""
+  },
+  "private": true,
+  "engines": {
+    "node": ">= 4.1.1"
+  },
+  "dependencies": {
+    "bower": "^1.3.12",
+    "extend": "*",
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.2.0",
+    "grunt-bump": "^0.3.0",
+    "grunt-checktextdomain": "*",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-exec": "^0.4.6",
+    "grunt-hash-manifest": "^0.5.3",
+    "grunt-modernizr": "^0.6.0",
+    "grunt-prompt": "^1.3.0",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-version": "^1.0.0",
+    "grunt-wp-i18n": "*",
+    "load-grunt-config": "^0.16.0",
+    "load-grunt-tasks": "^3.1.0",
+    "semver": "^5.0.3",
+    "time-grunt": "^1.1.0"
+  }
+}

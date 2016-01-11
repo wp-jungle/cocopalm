@@ -1,0 +1,24 @@
+{
+    "name": "marvinlabs/cocopalm",
+    "type": "wordpress-plugin",
+    "description": "A WordPress plugin for developing others plugins",
+    "homepage": "http://marvinlabs.com/",
+    "license": "Apache v2",
+    "authors": [
+        {
+            "name" : "MarvinLabs",
+            "email" : "contact@marvinlabs.com",
+            "homepage" : "http://marvinlabs.com/"
+        },
+        {
+            "name" : "Vincent Mimoun-Prat",
+            "email" : "contact@vincentprat.info",
+            "homepage" : "http://vincentprat.info/"
+        },
+        {
+            "name" : "Thomas Lartaud",
+            "email" : "contact@thomaslartaud.com",
+            "homepage" : "http://thomaslartaud.com/"
+        }
+    ]
+}

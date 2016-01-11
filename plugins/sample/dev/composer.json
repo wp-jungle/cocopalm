@@ -1,0 +1,30 @@
+{
+    "name": "sample",
+    "type": "wp-plugin",
+    "description": "An awesome WordPress plugin",
+    "homepage": "http://company.com/",
+    "license": "Apache v2",
+    "authors": [
+        {
+            "name" : "Firstname Lastname",
+            "email" : "contact@company.com",
+            "homepage" : "http://company.com/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:wp-jungle/bamboo.git"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "webdevstudios/cmb2": "~2.0.6",
+        "marvinlabs/bamboo": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sample\\": "src/"
+        }
+    }
+}
