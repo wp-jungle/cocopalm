@@ -16,8 +16,7 @@ Requirements
 Included plugins
 ----------------
 
-- `showcase`
-- `teammates`
+- `sample`
 
 
 Start
@@ -41,9 +40,11 @@ Grunt commands
 - `grunt release`
 - `grunt watch:(scripts/styles)-{plugin}`
 
-> `[]` optional
-> `{plugin}` plugin slug
-> `($1/$2)` choose between onf the argument
+`[]` optional
+
+`{plugin}` plugin slug
+
+`($1/$2)` choose between on the argument
 
 Changelog
 ---------
