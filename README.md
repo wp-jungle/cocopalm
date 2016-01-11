@@ -44,7 +44,7 @@ Grunt commands
 
 `{plugin}` plugin slug
 
-`($1/$2)` choose between on the argument
+`($1/$2)` choose between one of the argument
 
 Changelog
 ---------
